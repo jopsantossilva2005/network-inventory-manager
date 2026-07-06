@@ -1,2 +1,16 @@
 # network-inventory-manager
-Network inventory auditing and automation platform built with Java and Spring Boot
+
+A Java application for network inventory auditing, automation and reporting using NetBox.
+
+## Current Status
+
+Project Initialization
+
+## Planned Features
+
+- NetBox integration
+- Inventory audit
+- Report Generation
+- Dashboard
+- Docker support
+- CI/CD
