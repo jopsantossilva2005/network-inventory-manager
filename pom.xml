@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.jopsantossilva2005</groupId>
-	<artifactId>networkinventorymanager</artifactId>
+	<artifactId>network-inventory-manager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
